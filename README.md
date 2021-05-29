@@ -1,7 +1,7 @@
 ### Hey there 👋
 - 👋 Hi, I’m @triiips
 - 👀 I’m interested in creating tools that provide real value
-- 🌱 I’m currently learning Solidity and Go
+- 🌱 I’m currently learning Go and relearning JavaScript
 - 👯 I’m looking to collaborate on blockchain projects
 - 🔭 I’m currently working on a project for the 0xHackathon
 
